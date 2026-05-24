@@ -67,6 +67,44 @@ Includes:
 
 ---
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### Dark Mode
+
+![Dark Mode](screenshots/darkmode.png)
+
+### Image Upload
+
+![Image Upload](screenshots/upload-image.png)
+
+### Video Upload
+
+![Video Upload](screenshots/upload-video.png)
+
+### Analysis in Progress
+
+![Analysis](screenshots/analyzing.png)
+
+### Real Prediction
+
+![Real Result](screenshots/result-real.png)
+
+### Fake Prediction
+
+![Fake Result](screenshots/result-fake.png)
+
+### Model Information
+
+![Model Info](screenshots/model-info.png)
+
+### Analytics Dashboard
+
+![Analytics](screenshots/analytics-page.png)
+
 ## Technologies Used
 
 ### Frontend
