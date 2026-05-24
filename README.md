@@ -71,7 +71,7 @@ Includes:
 
 ### Home Page
 
-![Home Page](screenshots/homepage.png)
+![Home Page](project screenshots/Screenshot 2026-04-23 131135.png)
 
 ### Dark Mode
 
