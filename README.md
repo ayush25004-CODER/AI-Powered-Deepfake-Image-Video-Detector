@@ -67,43 +67,41 @@ Includes:
 
 ---
 
-## Screenshots
+## PROJECT INTERFACE
+
+
 
 ### Home Page
 
-![Home Page](project screenshots/Screenshot 2026-04-23 131135.png)
+![Home Page](project%20screenshots/Screenshot%202026-04-23%20131135.png)
 
-### Dark Mode
+### Image upload
 
-![Dark Mode](screenshots/darkmode.png)
-
-### Image Upload
-
-![Image Upload](screenshots/upload-image.png)
+![Dark Mode](project%20screenshots/Screenshot%202026-05-24%20170108.png)
 
 ### Video Upload
 
-![Video Upload](screenshots/upload-video.png)
+![Image Upload](project%20screenshots/Screenshot%202026-05-24%20170149.png)
 
 ### Analysis in Progress
 
-![Analysis](screenshots/analyzing.png)
+![Video Upload](project%20screenshots/Screenshot%202026-05-24%20170229.png)
+
+###  Fake Prediction
+
+![Analysis](project%20screenshots/Screenshot%202026-05-24%20170343.png)
 
 ### Real Prediction
 
-![Real Result](screenshots/result-real.png)
+![Real Result](project%20screenshots/Screenshot%202026-05-24%20170416.png)
 
-### Fake Prediction
+### Model Info Tab
 
-![Fake Result](screenshots/result-fake.png)
+![Fake Result](project%20screenshots/Screenshot%202026-05-24%20170453.png)
 
-### Model Information
+### Analytics Tab
 
-![Model Info](screenshots/model-info.png)
-
-### Analytics Dashboard
-
-![Analytics](screenshots/analytics-page.png)
+![Fake Result](project%20screenshots/Screenshot%202026-05-24%20170512.png)
 
 ## Technologies Used
 
