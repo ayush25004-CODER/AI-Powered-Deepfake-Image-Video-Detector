@@ -249,7 +249,7 @@ Because the training script is large, it has been uploaded in `.txt` format.
 
 ### How to Run
 
-1. Download the repository.
+1. Download the Training File.
 
 2. Rename:
 
@@ -260,20 +260,18 @@ training_script.txt
 to:
 
 ```text
-train_model.py
+train_model.ipynb
 ```
 
-3. Open JupyterLab:
+3. Download ANACONDA NAVIGATOR
+   Open ANACONDA CMD: ->conda activate tf
+                      -> Jupyter Lab
 
 ```bash
 jupyter lab
 ```
 
-or
 
-```bash
-jupyter notebook
-```
 
 4. Configure dataset locations:
 
