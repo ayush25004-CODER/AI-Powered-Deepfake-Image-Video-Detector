@@ -233,6 +233,82 @@ in browser
 
 ---
 
+## Training the Model
+
+### Training Script
+
+The complete training code is provided in:
+
+```text
+training_script.txt
+```
+
+The file contains the original Python source code used for model training.
+
+Because the training script is large, it has been uploaded in `.txt` format.
+
+### How to Run
+
+1. Download the repository.
+
+2. Rename:
+
+```text
+training_script.txt
+```
+
+to:
+
+```text
+train_model.py
+```
+
+3. Open JupyterLab:
+
+```bash
+jupyter lab
+```
+
+or
+
+```bash
+jupyter notebook
+```
+
+4. Configure dataset locations:
+
+```python
+DATASET_PATHS = {
+    'dfdc': 'path_to_dfdc',
+    'faceforensics': 'path_to_faceforensics',
+    'celebdf': 'path_to_celebdf'
+}
+```
+
+5. Execute the training script.
+
+### Recommended Environment
+
+- Python 3.10+
+- TensorFlow 2.15
+- CUDA 11.x
+- GPU (4GB+ VRAM)
+- JupyterLab
+
+### Generated Outputs
+
+Training produces:
+
+```text
+deepfake_best_3000samples.h5
+confusion_matrix.png
+roc_curve.png
+training_history.png
+classification_report.txt
+```
+
+---
+
 ## API Endpoints
 
 ### Analyze Media
